@@ -1,4 +1,4 @@
-# Online QT ile Uygulama Geliştirme Kursu - 24 Subat 2026
+# Online QT ile Uygulama Geliştirme Kursu - 24 Şubat 2026
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
