@@ -1,4 +1,4 @@
-# Online QT ile Uygulama Geliştirme Kursu - 20 Ocak 2026
+# Online QT ile Uygulama Geliştirme Kursu - 24 Şubat 2026
 
 Açıklama: Bu kurs QT C++ sınıf kütüphanesini kullanarak uygulama geliştirmek isteyen programcılara yöneliktir.
 
